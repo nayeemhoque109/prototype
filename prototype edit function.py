@@ -1,5 +1,6 @@
 '''
 requires:
+pip install openai
 pip install --upgrade openai
 pip install pillow
 pip install imageIO
