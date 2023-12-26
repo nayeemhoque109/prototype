@@ -1,8 +1,9 @@
 '''
 requires:
+pip install openai
 pip install --upgrade openai
 pip install pillow
-pip install imageIO requests
+pip install imageIO
 '''
 import os
 from io import BytesIO
